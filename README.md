@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif)
+![logo](https://i.pinimg.com/originals/69/b6/da/69b6dacd4392ebb287a4d0d7a7f23ae9.gif)
 <h1 align="center">Hi 👋, I'm Rudra Samanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
